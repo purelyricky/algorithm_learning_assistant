@@ -1,0 +1,41 @@
+# Core Dependencies for Algorithm Learning Assistant
+langchain
+langchain-ollama
+langchain-chroma
+langchain-core
+
+# Vector Database
+chromadb
+
+# Database
+psycopg2-binary
+
+# Data Processing
+pandas
+
+# Progress Visualization
+tqdm
+
+# Terminal Colors
+colorama
+
+# JSON Processing (built-in, but listing for documentation)
+# json
+# ast
+
+# Additional utilities
+python-dotenv
+
+# Document Processing Extensions
+PyPDF2
+python-docx
+pdfplumber
+pytesseract
+Pillow
+mammoth
+chardet
+
+# File handling and validation
+python-magic
+
+# haslib  --- inbuilt just adding here for documentation
